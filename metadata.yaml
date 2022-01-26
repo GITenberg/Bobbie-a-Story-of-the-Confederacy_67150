@@ -1,5 +1,8 @@
 _repo: Bobbie-a-Story-of-the-Confederacy_67150
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67150-h/images/cover.jpg
 creator:
   author:
     agent_name: Bosher, Kate Langley
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1932
     wikipedia: https://en.wikipedia.org/wiki/Kate_Langley_Bosher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67150#Bobbie-a-Story-of-the-Confederacy
 gutenberg_issued: '2022-01-12'
 identifiers:
   gutenberg: '67150'
